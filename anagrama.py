@@ -11,6 +11,4 @@ def anagrama(p1, p2):
             else:
                 return False
         return True
-
-
 print(anagrama("marrocos", "socorran"))
